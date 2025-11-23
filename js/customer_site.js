@@ -1,8 +1,5 @@
 const CUSTOMER_SITES = {
-    qiqi: {
-    api: 'https://www.qiqidys.com/api.php/provide/vod',
-    name: '七七资源',
-    },
+    
     hongniu: {
     api: 'http://hongniuzy2.com/api.php/provide/vod/from/hnm3u8',
     name: '紅牛資源',
@@ -302,6 +299,10 @@ const CUSTOMER_SITES = {
     kuaiyun: {
     api: 'https://www.kuaiyunzy.com/api.php/provide/vod/',
     name: '快云|点播',
+    },
+    qiqi: {
+    api: 'https://www.qiqidys.com/api.php/provide/vod',
+    name: '七七资源',
     }
 };
 
